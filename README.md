@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
+- 📫 How to reach me: https://www.linkedin.com/in/tio-jevero-8937b3179/
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+<!-- - ⚡ Fun fact:  -->
 
 [![Readme Stats](https://github-readme-stats.vercel.app/api?username=tiojevero&show_icons=true&theme=tokyonight&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
