@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on www.agunacourse.com
-- 🌱 I’m currently learning **Golang & Typescript**
+- 🌱 I’m currently interested **Golang & Typescript**
 - 📫 How to reach me: https://www.linkedin.com/in/tio-jevero-8937b3179/
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
